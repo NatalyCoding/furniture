@@ -1,1 +1,1 @@
-# furniture
+# Furniture shop website
